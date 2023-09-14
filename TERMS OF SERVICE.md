@@ -65,6 +65,15 @@ IF YOU ARE DISSATISFIED WITH THESE TOU, THE BOT, OR ANY GOOD OR SERVICE OFFERED 
 
 You are responsible for following your applicable local laws and determining, among other things, whether your use of the Bot violates any of those local laws. By using the Bot, you agree and acknowledge that information about you, including personally your discord ID, and gender, may be transmitted to and stored.
 
+## Intellectual and Other Property
+Certain elements of MineSim, including but not limited to, graphics, color selections, organization, and layout, are copyright protected under United States of America and international copyright laws and treaty provisions. We acknowledge that all images and assets, including Mojang Minecraft images, belong to their respective owners and we claim no ownership over them. Any MineSim Content protected by intellectual property laws may not be copied, republished, posted, modified, edited, transmitted, distributed, used to create derivative works of, or reverse engineered without permission, except that you may print out one copy of each Site page solely for noncommercial personal or educational use. No right, title, or interest in any MineSim Content is transferred to you as a result of you accessing, downloading, or printing such content from the Site or Bot. Any use of MineSim Content must display the appropriate copyright, trademark, and other proprietary notices.
+
+You acknowledge that you have no right, title, or interest in or to MineSim and/or MineSim Content.
+
+MineSim and the MineSim logo are marks of MineSim. Other marks, names, and logos on the Site and Bot are the property of their respective owners.
+
+There may be other content located on the Site and on the bot not owned by MineSim, and you should respect those property rights as well. All rights not expressly granted herein are reserved to MineSim.
+
 ## Miscellaneous
 
 You acknowledge that the opinions and recommendations contained on the Server are not necessarily those of MineSim nor endorsed by MineSim. Any reliance on any opinions or recommendations offered on the Server is done at your risk. MineSim does not guarantee or promise that any opinions and/or recommendations on the Bot are accurate or will be helpful to any issue you may have. You agree that MineSim is not liable to you or anyone else for any harm that might arise as a result of using and/or implementing in any manner any of the opinions or recommendations found on the Bot.
